@@ -29,7 +29,7 @@ systems, and agent-based research tools.
 
 **Languages**
 
-Python • Go • JavaScript • TypeScript  
+Python • JavaScript • TypeScript  
 
 **Frontend**
 
@@ -74,4 +74,4 @@ and answers user queries using LLM reasoning.
 
 ## 📫 Connect With Me
 
-LinkedIn: www.linkedin.com/in/parmeshwar-mr-50218a83
+LinkedIn: www.linkedin.com/in/parmeshwarmr
